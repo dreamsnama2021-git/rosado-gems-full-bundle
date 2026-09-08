@@ -1,0 +1,1 @@
+ALTER TABLE public.site_settings ADD COLUMN IF NOT EXISTS header_menu jsonb NOT NULL DEFAULT '[]'::jsonb;

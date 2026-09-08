@@ -1,0 +1,1 @@
+REVOKE ALL ON FUNCTION public.tg_currency_proposal_guard() FROM PUBLIC, anon, authenticated;
