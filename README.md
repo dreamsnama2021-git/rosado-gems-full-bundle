@@ -1,0 +1,1 @@
+# rosado-gems-full-bundle
