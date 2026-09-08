@@ -1,0 +1,19 @@
+# Rosado Gems
+
+> Rosado Gems is a Mumbai-based fine jewelry house offering certified gemstones, heritage rings, necklaces, earrings, bracelets and bridal collections, shipped worldwide with local currency pricing.
+
+Every piece is crafted in the Lower Parel atelier with certified gemstones and hallmarked metals. Shoppers can browse by collection, choose metal, plating, gemstone and size variants, and check out with card, UPI or cash on delivery in India.
+
+## Pages
+
+- [Home](/): Featured collections, new arrivals and best sellers.
+- [Shop](/collections): All jewelry collections and categories.
+- [About](/about): The story, craft and people behind Rosado Gems.
+- [Journal](/blog): Guides and stories on gemstones, care and styling.
+- [Contact](/contact): Studio address in Lower Parel Mumbai, phone, email and appointment requests.
+
+## Optional
+
+- [Shipping](/shipping): Delivery timelines, charges and cash-on-delivery terms.
+- [Terms](/terms): Terms of service.
+- [Privacy](/privacy): How customer information is collected and protected.

@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /auth
+Disallow: /checkout
+Disallow: /cart
+
+Sitemap: https://rosado.techberries.com/sitemap.xml
